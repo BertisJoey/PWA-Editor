@@ -9,3 +9,4 @@ You can install this text editor by visiting the deployed Heroku Page at: https:
 Hit the install button at the top of the page and use as you like
 
 ## Screenshot of Website
+![Screenshot of Website](./client/src/images/Screenshot-of-Jate-site.png)
