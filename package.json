@@ -1,7 +1,6 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
@@ -21,5 +20,14 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BertisJoey/PWA-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BertisJoey/PWA-Editor/issues"
+  },
+  "homepage": "https://github.com/BertisJoey/PWA-Editor#readme",
+  "description": ""
 }
